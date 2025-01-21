@@ -9,5 +9,11 @@ public void helloWorld(){
 }
 ```
 
+Task list:
+- [x] Task that is done
+- [ ] Still ToDo
+- [ ] another Task
+
+
 A picture:  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
